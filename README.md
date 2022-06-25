@@ -3,7 +3,7 @@
 ## I am interested in creating games mainly in the unity engine (C#)
 
 ## Links
-- 📷 My Youtube: [Youtube/DevKacper](https://www.youtube.com/c/DevKacper)
+- 📷 My Youtube: [DevKacper](https://www.youtube.com/c/DevKacper)
 - 📱 My first mobile game (🎮 10k Downloads, ✏ 250 Reviews, ✨ 4.5/5 Stars): [Pixel Zombie Survival](https://play.google.com/store/apps/details?id=com.KDApps.PixelZombieSurvival)
 
 ## Some statistics
