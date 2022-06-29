@@ -1,6 +1,7 @@
 # Hi there 👋
 
-## I am interested in creating games mainly in the Unity Engine C#
+## About me
+I am interested in creating games mainly in the Unity Engine C#
 
 ## Links
 - 📷 My Youtube: [DevKacper](https://www.youtube.com/c/DevKacper)
