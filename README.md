@@ -24,7 +24,7 @@ I am interested in game development mainly in the Unity Engine C#
 
 My useful scripts and systems to use in Unity projects
 
-### [*Minecraft 24H Challange*](https://github.com/KacperGra/Minecraft-Challange)
+### [*Minecraft Created in 24H as Challange*](https://github.com/KacperGra/Minecraft-Challange)
 
 My simple Minecraft Unity project created in 24 work hours.
 
