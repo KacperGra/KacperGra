@@ -20,6 +20,10 @@ I am interested in game development mainly in the Unity Engine C#
 
 ## 💻 **MY PROJECTS**
 
+### [*Youtube Battle Royale*](https://github.com/KacperGra/Youtube-Battle-Royale)
+
+Fun projected created in Unity Engine to make big Youtube viewer as bots battle.
+
 ### [*Unity Essentials*](https://github.com/KacperGra/DevKacper-Essentials)
 
 My useful scripts and systems to use in Unity projects
