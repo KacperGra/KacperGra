@@ -8,9 +8,9 @@ I am interested in game development mainly in the Unity Engine C#
 
 ## 📌 **LINKS**
 
-### *Youtube*
+### *My Youtube Channel*
 
-[DevKacper](https://www.youtube.com/c/DevKacper)
+[Dev Kacper](https://www.youtube.com/c/DevKacper)
 
 ### *My first mobile game*
 
