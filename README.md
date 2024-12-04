@@ -22,13 +22,3 @@ I am interested in game development mainly in the Unity Engine C#
 
 [Pixel Zombie Survival](https://play.google.com/store/apps/details?id=com.KDApps.PixelZombieSurvival)
 
-
-## 📊 **SOME STATISTICS**
-
-<sub>
-This informations is not 100% accurate because statistics do not include private repositories.
-</sub>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KacperGra&show_icons=true&theme=dark&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KacperGra&layout=compact&hide=CMake,Makefile,ShaderLab,HLSL)](https://github.com/anuraghazra/github-readme-stats)
